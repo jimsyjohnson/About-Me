@@ -19,6 +19,6 @@
    Built a predictive model using regression techniques, achieving [specific results].  
 
 📫 **Get in Touch**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/jimsy-johnson-31b1061a5)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/jimsyjohnson)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:jimsy.johnson@example.com)
 # About-Me
