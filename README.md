@@ -2,7 +2,10 @@
 👩‍💻 Machine Learning Engineer | Data Science Enthusiast  
 
 🚀 **About Me**  
-- 🔍 Passionate about AI, predictive analytics, and delivering impactful solutions.  
+      Hi! I’m Jimsy Johnson, 
+- 🌱 passionate data scientist with expertise in Python, R, MATLAB, and computer vision.
+- 🌱 specialize in solving real-world problems using machine learning, image processing, and predictive analytics.
+- 🌱 Passionate about AI, predictive analytics, and delivering impactful solutions.  
 - 🌱 Currently exploring advanced AI techniques and cloud-based ML workflows.  
 
 🛠 **Technical Skills**  
